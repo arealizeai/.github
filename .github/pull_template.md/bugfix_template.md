@@ -1,8 +1,8 @@
 ---
-name: [YTEST] - Bug Report Issue
-about: "Report a bug. Remember to give it a priority."
+name: Bugfix
+about: "Bugfix ticket. Remember to give it a priority. This isn't a report ticket, please make sure there are no duplicates."
 title: ""
-labels: bug
+labels: "type: fix :bug:"
 assignees: ""
 ---
 
