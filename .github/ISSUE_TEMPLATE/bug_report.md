@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: "Report a bug. Remember to give it a priority. "
+name: [YTEST] - Bug Report Issue
+about: "Report a bug. Remember to give it a priority."
 title: ""
 labels: bug
 assignees: ""
